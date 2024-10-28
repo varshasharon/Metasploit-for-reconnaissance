@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d570bc8b-3e09-45e7-8c6a-f1b21f12359f)# Metasploit-for-reconnaissance
 # Metasploit
 Metasploit for reconnaissance in pentesting
 
